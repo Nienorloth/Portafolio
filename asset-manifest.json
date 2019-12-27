@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.12e3e596.chunk.css",
-    "main.js": "/Portafolio/static/js/main.2372f33b.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.2372f33b.chunk.js.map",
+    "main.js": "/Portafolio/static/js/main.8235ba18.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.8235ba18.chunk.js.map",
     "runtime~main.js": "/Portafolio/static/js/runtime~main.9747bc56.js",
     "runtime~main.js.map": "/Portafolio/static/js/runtime~main.9747bc56.js.map",
     "static/js/2.6a0c1125.chunk.js": "/Portafolio/static/js/2.6a0c1125.chunk.js",
     "static/js/2.6a0c1125.chunk.js.map": "/Portafolio/static/js/2.6a0c1125.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.ef216ed45bd670852513c58e9293a8b8.js": "/Portafolio/precache-manifest.ef216ed45bd670852513c58e9293a8b8.js",
+    "precache-manifest.55794d6bdf76de904b527e20937d7c68.js": "/Portafolio/precache-manifest.55794d6bdf76de904b527e20937d7c68.js",
     "service-worker.js": "/Portafolio/service-worker.js",
     "static/css/main.12e3e596.chunk.css.map": "/Portafolio/static/css/main.12e3e596.chunk.css.map",
-    "static/media/Mariana Rascón Montaño.pdf": "/Portafolio/static/media/Mariana Rascón Montaño.26c55905.pdf",
+    "static/media/Mariana Rascón Montaño.pdf": "/Portafolio/static/media/Mariana Rascón Montaño.fe904de4.pdf",
     "static/media/App.css": "/Portafolio/static/media/moon2.97ef49de.jpg"
   }
 }
